@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#96EA9A</color>
+    <color name="blue">#8FC5F0</color>
+    <color name="red">#DD7699</color>
+    <color name="deposit_btn">#3F51B5</color>
+    <color name="withdraw_btn">#4CAF50</color>
+</resources>
